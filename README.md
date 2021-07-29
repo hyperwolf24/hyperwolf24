@@ -96,7 +96,7 @@ if __name__ == '__main__':
 
 <p align="center">
   <a href="https://github.com/hyperwolf248">
-    <img src="https://github-readme-stats.vercel.app/api?username=hyperwolf248&hide_border=true&show_icons=true" alt="hyperwolf248's GitHub stats">
+    
     
   </a>
 </p>
