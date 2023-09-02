@@ -22,20 +22,14 @@
 <code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/jp.svg"> </code>
 <code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/git.svg"> </code>
 <code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/linux-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/other/apache_hadoop-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/other/mongodb-ar21.svg"> </code>
 <code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/other/sqlite-ar21.svg"> </code>
 <code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/other/mysql-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/other/postgresql-ar21.svg"> </code>
-<code> <img height="70" src="https://github.com/hyperwolf248/-/blob/main/resource/google_cloud-ar21.svg"> </code>
-<code> <img height="70" src="https://github.com/hyperwolf248/-/blob/main/resource/amazon_aws-ar21.svg"> </code>
 
 ### 🛠 Other Softwares I Use : 
 
 <a href="https://code.visualstudio.com/"><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> </a>
 <a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png"/> </a>
 <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png"/> </a>
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/220px-Adobe_Photoshop_Lightroom_CC_logo.svg.png"/> </a>
 
 <br />
 
@@ -75,15 +69,16 @@ class hyperwolf248:
         self.age = 21
         self.name = 'Keerthi Gowda'
         self.languages = {
-            "English":  "Intermediate",
-            "Hindi":   "Native language"
+            "English":  "Intermediate"
         }
         self.education = {
             "Programming": (
-                ["Python & Javascript", "Self Education"],
+                ["Python & Java", "Self Education"],
+                ["Selenium & TestNG", "Self Education"],
+                ["Git & SVN", "Self Education"],
                 ["Linux Usage", "Self Education"]
             ),
-            "B.E": "RV College of Engineering",
+            "B.E": "RV College of Engineering [CGPA-7.4]",
         }
     def __str__(self):
         return self.name
