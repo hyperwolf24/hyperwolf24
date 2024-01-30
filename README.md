@@ -4,7 +4,7 @@
 
 # Hi, I'm Keerthi Gowda! <img src="wave.gif" width="50px"/>
 
-## I'm a Student and a Data Science enthusiast!
+## I'm a Developer and a Data Science enthusiast!
 
 - 🌱 I’m currently learning Deep learning
 - 👯 I’m looking to collaborate on TensorFlow
@@ -66,19 +66,22 @@ No Activity Tracked This Week
 class hyperwolf248:
     def __init__(self):
         self.username = 'hyperwolf248'
-        self.age = 21
+        self.age = 24
         self.name = 'Keerthi Gowda'
         self.languages = {
-            "English":  "Intermediate"
+            "Kannada":    "Intermediate"
+            "English":  "Intermediate",
+            "Hindi":    "Intermediate",
+            "Tamil":    "Beginner"
         }
         self.education = {
             "Programming": (
-                ["Python & Java", "Self Education"],
-                ["Selenium & TestNG", "Self Education"],
-                ["Git & SVN", "Self Education"],
-                ["Linux Usage", "Self Education"]
+                ["Python & Java"],
+                ["Selenium & TestNG"],
+                ["Git & SVN"],
+                ["Linux Usage"]
             ),
-            "B.E": "RV College of Engineering [CGPA-7.4]",
+            "B.E": "RV College of Engineering",
         }
     def __str__(self):
         return self.name
