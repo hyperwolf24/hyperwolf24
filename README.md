@@ -22,13 +22,11 @@
 <code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/jp.svg"> </code>
 <code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/git.svg"> </code>
 <code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/linux-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/other/sqlite-ar21.svg"> </code>
 <code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/other/mysql-ar21.svg"> </code>
 
 ### 🛠 Other Softwares I Use : 
 
 <a href="https://code.visualstudio.com/"><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> </a>
-<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png"/> </a>
 <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png"/> </a>
 
 <br />
