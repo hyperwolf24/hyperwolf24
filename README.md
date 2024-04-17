@@ -2,14 +2,12 @@
 
 ## I'm a Developer and a Data Science enthusiast!
 
+<img align="right" width="200" height="200" src="comp.gif">
+
 - 🌱 I’m currently learning Deep learning
 - 👯 I’m looking to collaborate on TensorFlow
 - 🤔 I’m looking for help with Data Analysis
 - 💬 Ask me about Python
-
-<img align="right" width="200" height="200" src="comp.gif">
-
-</p>
 
 ## Experienced with 
 <p align="center" >
