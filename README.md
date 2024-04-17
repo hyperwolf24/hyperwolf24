@@ -1,7 +1,3 @@
-<!-- ### Hello World! <img src="wave.gif" width="25px"/> -->
-
-<p align="left">
-
 # Hi, I'm Keerthi Gowda! <img src="wave.gif" width="50px"/>
 
 ## I'm a Developer and a Data Science enthusiast!
