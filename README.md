@@ -36,7 +36,7 @@
 **I'm a Night 🦉** 
 
 <p>
-    <img align="right" width="300" height="300" src="life_balance.gif">
+    <img align="right" width="200" height="200" src="life_balance.gif">
 </p>
 
 
