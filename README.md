@@ -37,11 +37,11 @@ class hyperwolf248:
         self.name = 'Keerthi Gowda'
         self.education = {
             "Programming": (
-                ["Python, Rust, Go and C"],
-                ["Postgres, MongoDB and Redis"],
+                ["Python", "Rust", "Go", "C"],
+                ["Postgres", "MongoDB" ,"Redis"],
                 ["Flask", "Flutter", "Kong", "Keycloak", "Clerk"],
-                ["Git, SVN, Robot, Selenium & TestNG"],
-                ["Keas, Tensorflow, Pytorch and HuggingFace]
+                ["Git", "SVN", "Robot", "Selenium", "TestNG"],
+                ["Keas", "Tensorflow", "Pytorch", "HuggingFace"]
             ),
             "B.E": "RV College of Engineering",
         }
