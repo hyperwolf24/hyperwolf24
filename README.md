@@ -27,11 +27,6 @@
 
 <hr>
 
-**I'm a Night 🦉** 
-<p>
-    <img align="right" width="200" height="200" src="life_balance.gif">
-</p>
-
 ## <img src="mario.gif" width="50px"/> A little more about me...
 
 ```py
@@ -55,3 +50,6 @@ class hyperwolf248:
 if __name__ == '__main__':
     me = hyperwolf248()
 ```
+<p>
+    <img align="right" width="200" height="200" src="life_balance.gif">
+</p>
