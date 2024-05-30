@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer and a Data Science enthusiast!
 
-<img align="right" width="200" height="200" src="comp.gif">
+<img align="right" width="200" height="200" src="life_balance.gif">
 
 -
 - 🌱 I’m currently learning Deep learning
@@ -50,6 +50,3 @@ class hyperwolf248:
 if __name__ == '__main__':
     me = hyperwolf248()
 ```
-<p>
-    <img align="right" width="200" height="200" src="life_balance.gif">
-</p>
