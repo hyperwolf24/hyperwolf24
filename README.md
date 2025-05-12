@@ -1,14 +1,12 @@
 # Hi, I'm Keerthi Gowda! <img src="wave.gif" width="50px"/>
 
-## I'm a Software Engineer and a Data Science enthusiast!
+## I'm an Engineer!
 
 <img align="right" width="180" height="180" src="life_balance.gif">
 
 -
 - 🌱 I’m currently learning Deep learning
 - 👯 I’m looking to collaborate on TensorFlow
-- 🤔 I’m looking for help with Data Analysis
-- 💬 Ask me about Python
 -
 
 ## Experienced with 
@@ -32,16 +30,16 @@
 ```py
 class hyperwolf248:
     def __init__(self):
-        self.username = 'hyperwolf248'
+        self.username = 'hyperwolf24'
         self.age = 24
         self.name = 'Keerthi Gowda'
         self.education = {
             "Programming": (
-                ["Python", "Rust", "Go", "C"],
-                ["Postgres", "MongoDB" ,"Redis"],
-                ["Flask", "Flutter", "Kong", "Keycloak", "Clerk"],
-                ["Git", "SVN", "Robot", "Selenium", "TestNG"],
-                ["Keas", "Tensorflow", "Pytorch", "HuggingFace"]
+                ["Python", "Rust", "Go", "NextJS", "Angular"],
+                ["Postgres", "MongoDB" ,"Redis", "EMQX", "MinIO"],
+                ["Flask", "Flutter", "Kong", "Keycloak"],
+                ["Git", "SVN", "Robot Framework", "Selenium"],
+                ["Keas", "Tensorflow", "Pytorch"]
             ),
             "B.E": "RV College of Engineering",
         }
