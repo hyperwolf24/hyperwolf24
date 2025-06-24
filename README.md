@@ -38,9 +38,8 @@ class hyperwolf248:
             "Programming": (
                 ["Python", "Rust", "Go", "NextJS", "Angular"],
                 ["Postgres", "MongoDB" ,"Redis", "EMQX", "MinIO"],
-                ["Flask", "Flutter", "Kong", "Keycloak"],
-                ["Git", "SVN", "Robot Framework", "Selenium"],
-                ["Keas", "Tensorflow", "Pytorch"]
+                ["Flask", "Flutter", "Keycloak"],
+                ["Git", "Robot Framework"]
             ),
             "B.E": "RV College of Engineering",
         }
