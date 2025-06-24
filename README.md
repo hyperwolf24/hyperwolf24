@@ -36,8 +36,8 @@ class hyperwolf248:
         self.name = 'Keerthi Gowda'
         self.education = {
             "Programming": (
-                ["Python", "Rust", "Go", "NextJS", "Angular"],
-                ["Postgres", "MongoDB" ,"Redis", "EMQX", "MinIO"],
+                ["Python", "Rust", "Golang", "NextJS"],
+                ["Postgres", "Redis", "EMQX", "MinIO"],
                 ["Flask", "Flutter", "Keycloak"],
                 ["Git", "Robot Framework"]
             ),
