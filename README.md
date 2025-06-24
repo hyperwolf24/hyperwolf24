@@ -5,9 +5,9 @@
 <img align="right" width="180" height="180" src="life_balance.gif">
 
 -
-- 🌱 I’m currently learning Deep learning
-- 👯 I’m looking to collaborate on TensorFlow
-- 🤔 I’m looking for help with Data Analysis
+- 🌱 I’m currently learning Golang, Rust
+- 👯 I’m looking to collaborate on ML
+- 🤔 I’m looking for help with Rust
 - 💬 Ask me about Python
 -
 
@@ -21,7 +21,6 @@
 <code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/other/postgresql-ar21.svg"> </code>
     <br>
 <code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/other/redis-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/other/mongodb-ar21.svg"> </code>
 <code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/docker-ar21.svg"> </code>
 <code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/linux-ar21.svg"> </code>
 
