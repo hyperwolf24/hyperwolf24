@@ -15,7 +15,6 @@
 <p align="center" >
 <code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/python-icon.svg"> </code>
 <code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/flask.svg"> </code>
-<code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/jp.svg"> </code>
 <code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/git.svg"> </code>
 <code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/jenkins.svg"> </code>
 <code> <img height="50" src="https://github.com/hyperwolf248/-/blob/main/resource/other/postgresql-ar21.svg"> </code>
